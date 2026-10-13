@@ -1,4 +1,4 @@
-AI-Based Retail Demand Forecasting and Inventory Policy Analysis
+## AI-Based Retail Demand Forecasting and Inventory Policy Analysis
 Overview
 This project explores retail demand forecasting using machine learning and analyzes how forecast errors can inform inventory decisions.
 
