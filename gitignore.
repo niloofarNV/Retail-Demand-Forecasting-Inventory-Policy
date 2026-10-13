@@ -1,0 +1,14 @@
+# M5 dataset
+m5_data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
