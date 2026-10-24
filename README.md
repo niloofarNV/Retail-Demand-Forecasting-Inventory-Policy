@@ -44,7 +44,7 @@ The M5 data is not included. Download it from the
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook demand_forecasting_inventory_optimization.ipynb
+jupyter notebook m5_pipeline.ipynb
 ```
 
 Run the cells from top to bottom. The last cell is the only slow one (about 2 minutes per rolling origin per
