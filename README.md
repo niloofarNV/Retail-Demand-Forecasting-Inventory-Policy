@@ -48,8 +48,7 @@ jupyter notebook m5_pipeline.ipynb
 ```
 
 Run the cells from top to bottom. The last cell is the only slow one (about 2 minutes per rolling origin per
-store on the machine used for the reported results). For a quick test set `CFG.n_origins = 1`. The same code is
-also provided as a script, `demand_forecasting_inventory_optimization.py`.
+store on the machine used for the reported results). For a quick test set `CFG.n_origins = 1`.
 
 To widen the study, change two settings in the configuration cell: `CFG.stores` (all ten stores are
 `CA_1..CA_4, TX_1..TX_3, WI_1..WI_3`) and `CFG.n_origins` (13 origins with the default 28-day step cover one year).
