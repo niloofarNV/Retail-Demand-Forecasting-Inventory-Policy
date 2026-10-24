@@ -56,7 +56,7 @@ To widen the study, change two settings in the configuration cell: `CFG.stores` 
 
 ## Results (store CA_1, 3 rolling origins, 9,130 SKU-origins)
 
-These numbers come from running the notebook on the real M5 data. All tables and figures are in `results/`.
+These numbers come from running the notebook on the real M5 data. Running the notebook saves all tables and figures to `results/`.
 
 **Forecast accuracy on the test windows**
 
